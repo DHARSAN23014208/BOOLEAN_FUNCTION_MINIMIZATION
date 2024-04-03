@@ -56,22 +56,23 @@ or g4(f2,s,t,u);
 endmodule
 ~~~
 
-
-
 Developed by:DHARSANKUMAR R RegisterNumber:212223240028
 
 
 **RTL realization**
+
 ![image](https://github.com/DHARSAN23014208/BOOLEAN_FUNCTION_MINIMIZATION/assets/149365413/e8495c09-7b03-492b-b9ef-5a70e398394f)
 
 
 **TRUTH TABLE**
+
 ![image](https://github.com/DHARSAN23014208/BOOLEAN_FUNCTION_MINIMIZATION/assets/149365413/4e3baf11-5d56-4c6f-9e4a-0f019618966a)
 
 
 
 **Timing Diagram**
-![image](https://github.com/DHARSAN23014208/BOOLEAN_FUNCTION_MINIMIZATION/assets/149365413/b192fa0b-3ab1-47d9-b70a-ba2efd26b912)
+
+![image](https://github.com/DHARSAN23014208/BOOLEAN_FUNCTION_MINIMIZATION/assets/149365413/99b38dc2-7fd6-41d7-bc1d-830d13f8c753)
 
 
 
